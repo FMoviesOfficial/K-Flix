@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /dmca/
+Disallow: /service/
+Disallow: /search/
+Disallow: /info/
+Disallow: /watch/
+Disallow: /user/
+Disallow: /taiem/
+Disallow: /login/
+Allow: /
